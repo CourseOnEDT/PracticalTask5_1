@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ee19a403-afe9-451a-ab6c-1e8af212aed9">
+  <name>PracticalTask5_1</name>
+  <synonym>
+    <key>ru</key>
+    <value>Practical task5 1</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="106f16f4-aed8-421e-8820-c3d0ae18732d"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="49edb7e7-9523-4b7e-80f1-81e406a3bc8b"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="2d427385-4a8d-431d-aa2e-c1d06a1f5336"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="189e1143-6c66-4dca-95c5-5e45d3e5d1af"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="76addd9d-a3b1-4327-8278-b74c9dda5e67"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="e29cb664-e279-464a-b89e-81a0ef50dc56"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="30245668-987e-4c53-ba65-cb92b2282335"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.22</compatibilityMode>
+  <languages uuid="3b2a9e31-e43b-4791-a450-b3da89ef7cb2">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.Товары</catalogs>
+  <documents>Document.Реализация</documents>
+</mdclass:Configuration>
